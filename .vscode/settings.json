@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/d35d939f-798e-4474-b0a6-06dda82d7d08/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/feedback-app-react",
+  "appService.deploySubpath": "build"
+}
